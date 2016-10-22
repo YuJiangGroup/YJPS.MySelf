@@ -1,0 +1,2 @@
+# YJPS.MySelf
+YuJiangPlatFormSystem
